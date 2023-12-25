@@ -1,0 +1,2 @@
+We Type this in the ToDoLibrary
+dotnet ef migrations add Initial --startup-project ..\webapi --context ToDoLibrary.EF.ToDoContext

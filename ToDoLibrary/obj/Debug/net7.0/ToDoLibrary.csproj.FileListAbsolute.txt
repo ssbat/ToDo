@@ -1,0 +1,14 @@
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\bin\Debug\net7.0\ToDoLibrary.deps.json
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\bin\Debug\net7.0\ToDoLibrary.dll
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\bin\Debug\net7.0\ToDoLibrary.pdb
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.csproj.AssemblyReference.cache
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.AssemblyInfoInputs.cache
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.AssemblyInfo.cs
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.dll
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\refint\ToDoLibrary.dll
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.pdb
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ref\ToDoLibrary.dll
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\bin\Debug\net7.0\ToDoLibrary.runtimeconfig.json
+C:\Users\saad_\Desktop\App\API\ToDo\ToDoLibrary\obj\Debug\net7.0\ToDoLibrary.genruntimeconfig.cache
